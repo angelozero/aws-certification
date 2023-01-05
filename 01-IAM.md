@@ -1,6 +1,6 @@
 # IAM
 
-## IAM - Identity and Access Management
+## IAM - Identity and Access Management - PT-Br
 
 - É um serviço da Web que ajuda você a controlar o acesso aos recursos da AWS de forma segura. Você usa o IAM para controlar quem é autenticado (fez login) e autorizado (tem permissões) a usar os recursos.
 
@@ -27,3 +27,17 @@
 - Criando um Grupo:
     - Dar um nome para o Grupo
     - Estabelecer as Politicas de acesso (**Policys**)
+
+- Criando política de senha
+    - Selecionar:
+        - Número de caracteres
+        - Letras maiúsculas e minúsculas
+        - Pelo menos um número
+        - Caracter alfanumérico
+        - Expira ? Sim ou não
+        - Permite usuário alterar a própria senha
+        - Não permite reutilzar a mesma senha
+
+---
+
+## IAM - Identity and Access Management - EN-Us
