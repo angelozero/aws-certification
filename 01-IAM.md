@@ -1,10 +1,24 @@
 # IAM
 
-## IAM - Identity and Access Management - PT-Br
+## IAM - Identity and Access Management - (pt-br)
 
 - É um serviço da Web que ajuda você a controlar o acesso aos recursos da AWS de forma segura. Você usa o IAM para controlar quem é autenticado (fez login) e autorizado (tem permissões) a usar os recursos.
 
 - Sessão da plataforma aonde você pode criar/cadastrar: Usuarios, Grupos, Permissões, Privilégios, Acessos, Regras e etc... .
+
+- Acesso compartilhado à sua conta da AWS
+
+- Permissões granulares
+
+- Acesso seguro a recursos da AWS para aplicações executadas no Amazon EC2
+
+- Autenticação multifator (MFA)
+
+- Federação de identidades
+
+- Informações de identidade para garantia
+
+- Compatibilidade com PCI DSS
 
 - **Multifactor Authentication** - Pode se logar a plataforma através de: user / password / token / auth ( google authenticator ).
 
@@ -40,4 +54,4 @@
 
 ---
 
-## IAM - Identity and Access Management - EN-Us
+## IAM - Identity and Access Management - (en-us)
