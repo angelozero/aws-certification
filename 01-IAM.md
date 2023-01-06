@@ -1,6 +1,7 @@
-# IAM ( IAM - CLI - SDK - Cloud Shell)
-
-## IAM - Identity and Access Management - (pt-br)
+# IAM 
+### *IAM - CLI - SDK - Cloud Shell*
+---
+## IAM - Identity and Access Management
 
 - É um serviço da Web que ajuda você a controlar o acesso aos recursos da AWS de forma segura. Você usa o IAM para controlar quem é autenticado (fez login) e autorizado (tem permissões) a usar os recursos.
 
@@ -60,10 +61,6 @@
 - Chave de Acesso ( *Access Key* )
     - Chaves de acesso para CLI e SDK.
 
----
-
-## IAM - Identity and Access Management - (en-us)
-
 - Grupos contém apenas grupos.
 
 - Sempre aplicar o principio de menos permissões possível.
@@ -90,8 +87,6 @@
 
 ---
 
-# CLI
-
 ## CLI - Command Line Interface
 
 - Uma ferramente que te permite usar os serviços da AWS usando comando linhas de comando em um prompt 
@@ -102,9 +97,7 @@
 
 ---
 
-# SDK
-
-## SDK - Software Development Kit
+# SDK - Software Development Kit
 
 - Linguagens específicas de API's.
 
@@ -116,9 +109,7 @@
 
 ---
 
-# Cloud Shell
-
-## Cloud Shell - A terminal in AWS web
+# Cloud Shell - A terminal in AWS web
 
 - A mesma coisa que o AWS CLI, usa um prompt para executar comando AWS.
 
