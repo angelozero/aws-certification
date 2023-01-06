@@ -30,4 +30,5 @@
 - [AWS Certification: Solution Architect Associate Parte 2](https://cursos.alura.com.br/course/aws-certified-solutions-architect-associate-parte2)
 - [AWS Certification: Solution Architect Associate Parte 3](https://cursos.alura.com.br/course/aws-certified-solutions-architect-associate-parte3)
 - [AWS Certification: Solution Architect Associate Parte 4](https://cursos.alura.com.br/course/aws-certified-solutions-architect-associate-parte4)
+- [AWS Certified Solutions Architect Associate: simulado comentado](https://cursos.alura.com.br/course/aws-certified-solutions-architect-associate-simulado)
 
