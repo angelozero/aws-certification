@@ -55,3 +55,21 @@
 ---
 
 ## IAM - Identity and Access Management - (en-us)
+
+- Grupos contém apenas grupos 
+
+- Sempre aplicar o principio de menos permissões possível
+
+-  Grupos recebem uma politica ( Policys ) de acesso, um único usuário recebe um política chamada **inline**
+
+- Uma estrutura de Politica recebe
+    - Version
+    - Id
+    - Statment
+        - Sid
+        - Effect
+        - Principal
+        - Action
+        - Resource
+
+- Nunca compartilhe sua **access key** !
