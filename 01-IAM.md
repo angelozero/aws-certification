@@ -97,7 +97,7 @@
 
 ---
 
-# SDK - Software Development Kit
+## SDK - Software Development Kit
 
 - Linguagens específicas de API's.
 
@@ -109,7 +109,7 @@
 
 ---
 
-# Cloud Shell - A terminal in AWS web
+## Cloud Shell - A terminal in AWS web
 
 - A mesma coisa que o AWS CLI, usa um prompt para executar comando AWS.
 
