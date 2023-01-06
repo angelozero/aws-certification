@@ -6,19 +6,19 @@
 
 - Sessão da plataforma aonde você pode criar/cadastrar: Usuarios, Grupos, Permissões, Privilégios, Acessos, Regras e etc... .
 
-- Acesso compartilhado à sua conta da AWS
+- Acesso compartilhado à sua conta da AWS.
 
-- Permissões granulares
+- Permissões granulares.
 
-- Acesso seguro a recursos da AWS para aplicações executadas no Amazon EC2
+- Acesso seguro a recursos da AWS para aplicações executadas no Amazon EC2.
 
-- Autenticação multifator (MFA)
+- Autenticação multifator (MFA).
 
-- Federação de identidades
+- Federação de identidades.
 
-- Informações de identidade para garantia
+- Informações de identidade para garantia.
 
-- Compatibilidade com PCI DSS
+- Compatibilidade com PCI DSS.
 
 - **Multifactor Authentication** - Pode se logar a plataforma através de: user / password / token / auth ( google authenticator ).
 
@@ -56,11 +56,11 @@
 
 ## IAM - Identity and Access Management - (en-us)
 
-- Grupos contém apenas grupos 
+- Grupos contém apenas grupos.
 
-- Sempre aplicar o principio de menos permissões possível
+- Sempre aplicar o principio de menos permissões possível.
 
--  Grupos recebem uma politica ( Policys ) de acesso, um único usuário recebe um política chamada **inline**
+-  Grupos recebem uma politica ( Policys ) de acesso, um único usuário recebe um política chamada **inline**.
 
 - Uma estrutura de Politica recebe
     - Version
@@ -72,6 +72,6 @@
         - Action
         - Resource
 
-- Nunca compartilhe sua **access key** !
+- Nunca compartilhe sua **access key**!
 
 -  
