@@ -24,6 +24,7 @@
 ---
 
 - [01 - IAM](https://github.com/angelozero/aws-certification/blob/main/01-IAM.md)
+- [01 - EC2](https://github.com/angelozero/aws-certification/blob/main/02-EC2.md)
 
 ### Vídeos
 - [AWS Certification: Solution Architect Associate Parte 1](https://cursos.alura.com.br/course/aws-certified-solutions-architect-associate-parte1)
